@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [fullstack-marketing-hub](https://github.com/genial-mani/fullstack-marketing-hub)
 
-- 🌱 I’m currently learning **Blockchain Technology.**
+- 🌱 I’m currently learning **Next.js, PostgreSQL, Blockchain Technology.**
 
 - 👨‍💻 All of my projects are available at [https://genial-mani.github.io/portfolio-main/](https://genial-mani.github.io/portfolio-main/)
 
