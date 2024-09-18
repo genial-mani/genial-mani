@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manikanta Ginige</h1>
 <h3 align="center">A passionate Full Stack developer who builds web platforms from scratch.</h3>
 
-- 🔭 I’m currently working on [fullstack-marketing-hub](https://github.com/genial-mani/fullstack-marketing-hub)
+- 🔭 I’m currently working on [fullstack-marketing-hub](https://fullstack-marketing-hub.vercel.app/)
 
 - 🌱 I’m currently learning **Next.js, PostgreSQL, Blockchain Technology.**
+
+- 🤝 I’m looking for help with [fullstack-marketing-hub](https://github.com/genial-mani/fullstack-marketing-hub)
 
 - 👨‍💻 All of my projects are available at [https://genial-mani.github.io/portfolio-main/](https://genial-mani.github.io/portfolio-main/)
 
