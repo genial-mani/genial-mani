@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [fullstack-marketing-hub](https://fullstack-marketing-hub.vercel.app/)
 
-- 🌱 I’m currently learning **Next.js, PostgreSQL, Blockchain Technology.**
+- 🌱 I’m currently learning **Next.js, GraphQL, Blockchain Technology.**
 
 - 🤝 I’m looking for help with [fullstack-marketing-hub](https://github.com/genial-mani/fullstack-marketing-hub)
 
