@@ -7,9 +7,7 @@
 
 - 🤝 I’m looking for help with [fullstack-marketing-hub](https://github.com/genial-mani/fullstack-marketing-hub)
 
-- 👨‍💻 All of my projects are available at [https://genial-mani.github.io/portfolio-main/](https://genial-mani.github.io/portfolio-main/)
-
-- 💬 Ask me about **React, JavaScript, C, C++.**
+- 👨‍💻 All of my projects are available at [My porfolio](https://mani-porfolio.vercel.app/)
 
 - 📫 How to reach me **manikantaginige1@gmail.com**
 
